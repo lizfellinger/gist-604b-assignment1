@@ -17,6 +17,7 @@ def main():
 
     # Add your own message here!
     print("I enjoy discovering new way to utilize spatial data analysis in real-world problems.")
+    print ("Updated in Codespaces")
 
 if __name__ == "__main__":
     main()
